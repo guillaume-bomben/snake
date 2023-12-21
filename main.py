@@ -190,7 +190,7 @@ def main_game():
         if check_self_collision():
             print(score)
             with open("score.txt", "a") as file:
-                file.write(f"{player} : {score}\n")
+                file.write(f"{player} : {score}" + "\n")
             home()
 
         cloak.tick(60)

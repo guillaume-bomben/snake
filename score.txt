@@ -2,3 +2,6 @@ pseudo : 18
 guillaume : 24
 trois : 19
 test : 30
+tom : 32
+test : 16
+ohf : 20
